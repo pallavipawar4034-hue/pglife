@@ -216,6 +216,14 @@ $interested_users_count = mysqli_num_rows($result_4);
                         }
                     }
                     ?>
+                    <div class="amenity-container">
+                        <img src="img/amenities/powerbackup.svg">
+                        <span>Power backup</span>
+                    </div>
+                    <div class="amenity-container">
+                        <img src="img/amenities/lift.svg">
+                        <span>Lift</span>
+                    </div>
                 </div>
 
                 <div class="col-md-auto">
@@ -232,6 +240,26 @@ $interested_users_count = mysqli_num_rows($result_4);
                         }
                     }
                     ?>
+                    <div class="amenity-container">
+                        <img src="img/amenities/wifi.svg">
+                        <span>Wi-Fi</span>
+                    </div>
+                    <div class="amenity-container">
+                        <img src="img/amenities/tv.svg">
+                        <span>Tv</span>
+                    </div>
+                    <div class="amenity-container">
+                        <img src="img/amenities/rowater.svg">
+                        <span>Water Purifier</span>
+                    </div>
+                    <div class="amenity-container">
+                        <img src="img/amenities/dining.svg">
+                        <span>Dining</span>
+                    </div>
+                    <div class="amenity-container">
+                        <img src="img/amenities/washingmachine.svg">
+                        <span>Washing Machine</span>
+                    </div>
                 </div>
 
                 <div class="col-md-auto">
@@ -248,6 +276,14 @@ $interested_users_count = mysqli_num_rows($result_4);
                         }
                     }
                     ?>
+                    <div class="amenity-container">
+                        <img src="img/amenities/bed.svg">
+                        <span>Bed with mattress</span>
+                    </div>
+                    <div class="amenity-container">
+                        <img src="img/amenities/ac.svg">
+                        <span>Air conditioner</span>
+                    </div>
                 </div>
 
                 <div class="col-md-auto">
@@ -264,6 +300,10 @@ $interested_users_count = mysqli_num_rows($result_4);
                         }
                     }
                     ?>
+                    <div class="amenity-container">
+                        <img src="img/amenities/geyser.svg">
+                        <span>Geyser</span>
+                    </div>
                 </div>
             </div>
         </div>
